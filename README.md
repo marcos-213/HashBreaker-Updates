@@ -1,2 +1,1 @@
-# HashBreaker-Updates
-repositório de atualizações
+Atualizações oficiais do HashBreaker
